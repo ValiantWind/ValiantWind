@@ -8,9 +8,8 @@ Hobbies: Programming and reading. Plans to graduate as a full time programmer.
 
 💻 Tech Stack 💻 
 
-
-
-Stats
+***
+## Stats
 [![ValiantWind's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValiantWind&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWind&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
