@@ -17,6 +17,7 @@ Hobbies: Programming and reading. Plans to graduate as a full time programmer.
 <div>
 <a href="https://twitter.com/valiantwind"><img src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/96/twitter-icon.png"></a>
 <a href="https://devforum.roblox.com/u/valiantwind/summary"><img src="https://img.icons8.com/color/344/roblox-studio.png" width="96" height="96"></a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJBULoLatwoFiPvn8CTrzytzBcoKWtoG0Nk3tL4289VtF4yCNU-U3d2Fc1WRm4W2Igkis:https://static.wikia.nocookie.net/ipod/images/5/59/Roblox.png" width="96" height="96">
 </div>
 
 
