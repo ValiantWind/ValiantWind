@@ -4,7 +4,8 @@
 ## 💫 About Me 💫
 Nickname: Valiant or Val  
 Age: 15  
-Hobbies: Programming and reading. Plans to graduate as a full time programmer. 
+Hobbies: Programming and reading.  
+Plans to graduate as a full time programmer. 
   
 ***
 ## Social Media  
