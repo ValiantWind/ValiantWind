@@ -16,7 +16,7 @@ Hobbies: Programming and reading. Plans to graduate as a full time programmer.
 ## Social Media
 
 <img src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/96/twitter-icon.png">
-<img src="https://img.icons8.com/color/344/roblox-studio.png">
+<img src="https://img.icons8.com/color/344/roblox-studio.png" width="96" height="96">
 [![Twitter][1.2]][1]
 
 <!--[1.2]: https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png
