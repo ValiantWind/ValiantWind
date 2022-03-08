@@ -15,9 +15,10 @@ Hobbies: Programming and reading. Plans to graduate as a full time programmer.
 ***
 ## Social Media
 
+<img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" style="10px;10px"/>
 [![Twitter][1.2]][1]
 
-[1.2]: https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png
+<!--[1.2]: https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png
 <!--
 **ValiantWind/ValiantWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,4 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[1]: https://twitter.com/valiantwind
+<!--[1]: https://twitter.com/valiantwind
