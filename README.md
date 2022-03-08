@@ -12,6 +12,12 @@ Hobbies: Programming and reading. Plans to graduate as a full time programmer.
 ## Stats
 [![ValiantWind's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValiantWind&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWind&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+***
+## Social Media
+
+[![Twitter][1.2]][1]
+
+[1.2]: https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png
 <!--
 **ValiantWind/ValiantWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[1]: https://twitter.com/valiantwind
