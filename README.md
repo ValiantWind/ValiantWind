@@ -15,7 +15,7 @@ Hobbies: Programming and reading. Plans to graduate as a full time programmer.
 ***
 ## Social Media
 
-<img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" style="10px;10px"/>
+<img src="https://streamersquare.com/wp-content/uploads/2014/09/Twitter-xxl.png" style="10px;10px"/>
 [![Twitter][1.2]][1]
 
 <!--[1.2]: https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png
