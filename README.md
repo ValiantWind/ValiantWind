@@ -2,10 +2,11 @@
 
 ***
 ## 💫 About Me 💫
+<div>
 Nickname: Valiant or Val
 Age: 15
 Hobbies: Programming and reading. Plans to graduate as a full time programmer.
-
+</div>
 💻 Tech Stack 💻 
 
 ***
@@ -15,10 +16,11 @@ Hobbies: Programming and reading. Plans to graduate as a full time programmer.
 ***
 ## Social Media
 <div>
-<a href="https://twitter.com/valiantwind"><img src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/96/twitter-icon.png"></a>
-<a href="https://www.roblox.com/users/187808735/profile"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/roblox_alt_macos_bigsur_icon_189774.png" width="100" height="100"></a>
-<a href="https://devforum.roblox.com/u/valiantwind/summary"><img src="https://img.icons8.com/color/344/roblox-studio.png" width="96" height="96"></a>
-<a href="https://g.dev/valiant"><img src="https://code.google.com/images/developers.png" width="96" height="96"></a>
+<a href="https://twitter.com/valiantwind"><img alt="Twitter" arc="https://icons.iconarchive.com/icons/bokehlicia/pacifica/96/twitter-icon.png"></a>
+<a href="https://www.roblox.com/users/187808735/profile"><img alt="Roblox Profile "src="https://cdn.icon-icons.com/icons2/3053/PNG/512/roblox_alt_macos_bigsur_icon_189774.png" width="100" height="100"></a>
+<a href="https://devforum.roblox.com/u/valiantwind/summary"><img alt="DevForum" src="https://img.icons8.com/color/344/roblox-studio.png" width="96" height="96"></a>
+<a href="https://g.dev/valiant"><img alt="Google Developer" src="https://code.google.com/images/developers.png" width="96" height="96"></a>
+<a href="https://www.reddit.com/u/realwindgaming"><img alt="Reddit" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" width="96" height="96"></a>
 </div>
 
 
