@@ -1,5 +1,9 @@
 # 💫 About Me 💫
-I'm a programmer in High School. 
+Nickname: Valiant or Val
+Age: 15
+Hobbies: Programming and reading. Plans to graduate as a full time programmer.
+
+💻 Tech Stack 💻 
 <!--
 **ValiantWind/ValiantWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
