@@ -21,7 +21,7 @@ Hobbies: Programming and reading. Plans to graduate as a full time programmer.
 <a href="https://devforum.roblox.com/u/valiantwind/summary"><img alt="DevForum" src="https://img.icons8.com/color/344/roblox-studio.png" width="96" height="96"></a>
 <a href="https://g.dev/valiant"><img alt="Google Developer" src="https://code.google.com/images/developers.png" width="96" height="96"></a>
 <a href="https://www.reddit.com/u/realwindgaming"><img alt="Reddit" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" width="96" height="96">
-<a href="https://guilded.gg/u/robloxian"><img alt="Guilded" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fis1-ssl.mzstatic.com%2Fimage%2Fthumb%2FPurple116%2Fv4%2F8b%2F7f%2F93%2F8b7f9386-234f-0bf9-0723-46a06b2bb9c7%2FAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png" width="96" height="96"></alt>
+<a href="https://guilded.gg/u/robloxian"><img alt="Guilded" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpb4l7k87UDdYOEntgitfR4yOcPyvuFLITBWlfEtDAKyAoAJSmTLPlih5ASJciBQBv4Qg:https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/e5/94/0f/e5940fa1-65f6-b612-b425-c5969f5e563a/source/512x512bb.jpg" width="96" height="96"></alt>
 </a>
 </div>
 
