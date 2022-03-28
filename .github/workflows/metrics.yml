@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           config_timezone: America/Los_Angeles
-          plugin_language: yes
+          plugin_languages: yes
           plugin_stars: yes
           config_order: base.header, languages, stars
           output_action: commit
