@@ -1,9 +1,9 @@
 # Hello there! I'm ValiantWind <img src="https://tenor.com/bKQSx.gif" width="30px">
 
 ***
-## 💫 About Me 💫
+<center> ## 💫 About Me 💫 </center>
 Nickname: Valiant or Val  
-Age: 15  
+Age: 15
 Hobbies: Programming and reading.  
 Plans to graduate as a full time programmer. 
   
