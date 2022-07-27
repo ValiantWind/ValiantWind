@@ -16,9 +16,14 @@ jobs:
           config_timezone: America/Los_Angeles
           base: header
           plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 5
+          plugin_activity_limit: 3
+          plugin_activity_filter: push, issue, pr, release
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_details: percentage
+          plugin_languages_ignored: Nix, Vue, Shell
           plugin_activity: yes
           plugin_activity_visibility: public
           plugin_repositories: yes
