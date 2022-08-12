@@ -28,5 +28,5 @@ jobs:
           plugin_activity: yes
           plugin_activity_visibility: public
           plugin_repositories: yes
-          plugin_repositories_featured: ValiantWind/Chad-Bot
+          plugin_repositories_featured: ValiantWind/Chad-Bot, ValiantWind/Roblox-Avatar-Thumbnail-Viewer, ValiantWind/QR-Code-Generator
           plugin_introduction: yes
