@@ -2,7 +2,6 @@
 
 I'm a 16 year old Passionate Programmer. Here on my GitHub, you will see all the projects I've been working on or have worked on in the past. See you around!
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=ValiantWind&show_icons=true&theme=dark&ring_color=2AB0FE"/>
 
 ***
 
@@ -19,5 +18,7 @@ I'm a 16 year old Passionate Programmer. Here on my GitHub, you will see all the
 ## Featured Projects
 
 [![Calculators](https://github-readme-stats.vercel.app/api/pin/?username=ValiantWind&repo=Calculators&theme=dark&show_owner=true)](https://github.com/ValiantWind/Calculators)
+
+[![Location Details](https://github-readme-stats.vercel.app/api/pin/?username=ValiantWind&repo=Location-Details&theme=dark&show_owner=true)](https://github.com/ValiantWind/Location-Details)
 
 ***
