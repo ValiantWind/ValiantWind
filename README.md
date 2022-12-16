@@ -2,6 +2,10 @@
 
 I'm a 16 year old Passionate Programmer. Here on my GitHub, you will see all the projects I've been working on or have worked on in the past. See you around!
 
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValiantWind&show_icons=true&theme=dark&ring_color=2AB0FE" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantWind&hide=nix&layout=compact" width="40%" /> 
+</p>
 
 ***
 
