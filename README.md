@@ -1,7 +1,7 @@
-# Hiya! I'm Val. 👋
 
-I'm a 16 year old Passionate Programmer. Here on my GitHub, you will see all the projects I've been working on or have worked on in the past. See you around!
+<h1> Hiya! I'm Val. 👋 </h1>
 
+<p>I'm a 16 year old Passionate Programmer. Here on my GitHub, you will see all the projects I've been working on or have worked on in the past. See you around!</p>
 
 ***
 <p float="left">
