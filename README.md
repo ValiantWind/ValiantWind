@@ -3,8 +3,8 @@
 I'm a 16 year old Passionate Programmer. Here on my GitHub, you will see all the projects I've been working on or have worked on in the past. See you around!
 
 <p float="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ValiantWind&show_icons=true&theme=dark&ring_color=2AB0FE" width="40%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ValiantWind&hide=nix,shell&layout=compact&theme=dark" width="40%" /> 
+  <img src="https://github-readme-stats-valiantwind.vercel.app/api?username=ValiantWind&show_icons=true&theme=dark&ring_color=2AB0FE" width="40%" />
+  <img src="https://github-readme-stats-valiantwind.vercel.app/api/top-langs/?username=ValiantWind&hide=nix,shell&layout=compact&theme=dark" width="40%" /> 
 </p>
 
 ***
@@ -21,8 +21,8 @@ I'm a 16 year old Passionate Programmer. Here on my GitHub, you will see all the
 
 ## Featured Projects
 
-[![Calculators](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ValiantWind&repo=Calculators&theme=dark&show_owner=true)](https://github.com/ValiantWind/Calculators)
+[![Calculators](https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=Calculators&theme=dark&show_owner=true)](https://github.com/ValiantWind/Calculators)
 
-[![Location Details](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ValiantWind&repo=Location-Details&theme=dark&show_owner=true)](https://github.com/ValiantWind/Location-Details)
+[![Location Details](https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=Location-Details&theme=dark&show_owner=true)](https://github.com/ValiantWind/Location-Details)
 
 ***
