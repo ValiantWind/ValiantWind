@@ -22,8 +22,8 @@
 
 ## Featured Projects
 
-[![Calculators](https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=Calculators&theme=dark&show_owner=true)](https://github.com/ValiantWind/Calculators)
+[![Location Details](https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=cloudblox&theme=dark&show_owner=true)](https://github.com/ValiantWind/cloudblox)
 
-[![Location Details](https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=Location-Details&theme=dark&show_owner=true)](https://github.com/ValiantWind/Location-Details)
+[![Calculators](https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=Calculators&theme=dark&show_owner=true)](https://github.com/ValiantWind/Calculators)
 
 ***
