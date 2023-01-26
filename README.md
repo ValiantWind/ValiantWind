@@ -22,7 +22,7 @@
 
 ## Featured Projects
 
-[![cloudblox](https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=cloudblox&theme=dark&show_owner=true)](https://github.com/ValiantWind/cloudblox)
+[![cloudblox](https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=cloudblox&theme=dark)](https://github.com/ValiantWind/cloudblox)
 
 [![Calculators](https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=Calculators&theme=dark&show_owner=true)](https://github.com/ValiantWind/Calculators)
 
