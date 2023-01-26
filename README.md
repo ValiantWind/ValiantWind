@@ -6,12 +6,10 @@
 ***
 <p float="left">
   <img src="https://github-readme-stats-valiantwind.vercel.app/api?username=ValiantWind&show_icons=true&theme=dark&ring_color=2AB0FE&count_private=true" width="47.75%" />
-  <img src="https://github-readme-stats-valiantwind.vercel.app/api/top-langs/?username=ValiantWind&hide=nix,shell&layout=compact&theme=dark&exclude_repo=github-readme-stats" width="42.25%" /> 
+  <img src="https://github-readme-stats-valiantwind.vercel.app/api/top-langs/?username=ValiantWind&hide=nix,shell&layout=compact&theme=dark&exclude_repo=github-readme-stats&langs_count=5" width="42.25%" /> 
 </p>
 
-
 ## Tech Stack
-
 
 <a href="https://discord.com/users/318423524807016448">
   <img width="40%" src="https://lanyard.cnrad.dev/api/318423524807016448?bg=5865F2" align="right" />
