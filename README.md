@@ -6,7 +6,7 @@
 ***
 <p float="left">
   <img src="https://github-readme-stats-valiantwind.vercel.app/api?username=ValiantWind&show_icons=true&theme=dark&ring_color=2AB0FE" width="40%" />
-  <img src="https://github-readme-stats-valiantwind.vercel.app/api/top-langs/?username=ValiantWind&hide=nix,shell&layout=compact&theme=dark" width="40%" /> 
+  <img src="https://github-readme-stats-valiantwind.vercel.app/api/top-langs/?username=ValiantWind&hide=nix,shell&layout=compact&theme=dark&exclude_repo=github-readme-stats" width="40%" /> 
 </p>
 
 
