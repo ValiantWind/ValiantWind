@@ -29,11 +29,4 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-valiantwind.vercel.app/api?username=ValiantWind&show_icons=true&theme=dark&ring_color=2AB0FE&count_private=true&include_all_commits=true&hide_border=true" alt="Val's GitHub stats" align="center" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-valiantwind.vercel.app/api/top-langs?username=ValiantWind&theme=dark&count_private=true&exclude_repo=github-readme-stats&layout=compact&langs_count=10&hide_border=true&hide=nix,shell" alt="Val's GitHub stats" align="center" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
-## Featured Projects
-
-[![cloudblox](https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=cloudblox&theme=dark&show_owner=true)](https://github.com/ValiantWind/cloudblox)
-
-[![Calculators](https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=Calculators&theme=dark&show_owner=true)](https://github.com/ValiantWind/Calculators)
-
 ***
