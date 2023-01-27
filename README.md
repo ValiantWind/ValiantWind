@@ -18,10 +18,6 @@
 <a href="https://github.com/ValiantWind/cloudblox">
   <img align="center" src="https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=cloudblox&theme=dark&show_owner=true" />
 </a>
-<a href="https://github.com/ValiantWind/Calculators">
-  <img align="center" src="https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=Calculators&theme=dark&show_owner=true" />
-</a>
-
 ---
 
 ## Statistics
