@@ -1,7 +1,7 @@
 
 <h1> Hiya! I'm Val.  <img width="32px" height="32px" src="assets/wave.gif"/> </h1>
 
-<p>I'm a 16 year old Passionate Programmer. Here on my GitHub, you will see all the projects I've been working on or have worked on in the past. See you around!</p>
+<p>I'm a 17 year old Passionate Programmer. Here on my GitHub, you will see all the projects I've been working on or have worked on in the past. See you around!</p>
 
 ---
 
