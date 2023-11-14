@@ -4,9 +4,6 @@
 <p>I'm a 17 year old self-taught passionate Programmer. Here on my GitHub, you will see almost all the projects I've been working on or have worked on in the past. See you around!</p>
 
 ---
-<h3> My current situation as a programmer:</h3>
-<p>https://valiantwind.github.io/my-situation</p>
----
 
 <a href="https://discord.com/users/318423524807016448"> <img width="40%" src="https://lanyard.cnrad.dev/api/318423524807016448?bg=5865F2" align="right" /> </a>
 
