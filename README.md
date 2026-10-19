@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <h1>Hiya! I'm Val. <img width="32px" height="32px" src="assets/wave.gif" alt="Waving hand" /></h1>
+      <h1>Hiya! I go by Val. <img width="32px" height="32px" src="assets/wave.gif" alt="Waving hand" /></h1>
       <p>I'm a 20 year old self-taught passionate Programmer. Here on my GitHub, you will see almost all the projects I've been working on or have worked on in the past. See you around!</p>
     </td>
     <td width="40%">
@@ -20,7 +20,7 @@
 
 ## Featured Projects
 
-| <a href="https://github.com/ValiantWind/Device-Details"><img src="https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=device-details&show_owner=true&bg_color=000000&ring_color=2AB0FE&text_color=ffffff&title_color=ffffff&icon_color=2AB0FE&hide_border=true" alt="Device Details" align="center" /></a> | <a href="https://github.com/ValiantWind/QR-Code-Generator"><img src="https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=QR-Code-Generator&show_owner=true&bg_color=000000&ring_color=2AB0FE&text_color=ffffff&title_color=ffffff&icon_color=2AB0FE&hide_border=true" alt="QR Code Generator" align="center" /></a> | <a href="https://github.com/ValiantWind/ubersicht-widgets"><img src="https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=ubersicht-widgets&show_owner=true&bg_color=000000&ring_color=2AB0FE&text_color=ffffff&title_color=ffffff&icon_color=2AB0FE&hide_border=true" alt="Ubersicht Widgets" align="center" /></a> |
+| <a href="https://github.com/ValiantWind/Device-Details"><img src="https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=device-details&show_owner=true&bg_color=000000&ring_color=2AB0FE&text_color=ffffff&title_color=ffffff&icon_color=2AB0FE&hide_border=true" alt="Device Details" align="center" /></a> | <a href="https://github.com/ValiantWind/CrossOver-Trial-Reset"><img src="https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=CrossOver-Trial-Reset&show_owner=true&bg_color=000000&ring_color=2AB0FE&text_color=ffffff&title_color=ffffff&icon_color=2AB0FE&hide_border=true" alt="CrossOver Trial Reset Script" align="center" /></a> | <a href="https://github.com/ValiantWind/ubersicht-widgets"><img src="https://github-readme-stats-valiantwind.vercel.app/api/pin/?username=ValiantWind&repo=ubersicht-widgets&show_owner=true&bg_color=000000&ring_color=2AB0FE&text_color=ffffff&title_color=ffffff&icon_color=2AB0FE&hide_border=true" alt="Ubersicht Widgets" align="center" /></a> |
 | --- | --- | --- |
 
 ---
